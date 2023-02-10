@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Heebo&display=swap');
+
+body{
+	font-family: 'Heebo', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background-color: peachpuff;
+	background-repeat:no-repeat ;
+	background-size: cover;
+	color: black;
+}
+
+
+h1{
+	font-family: 'Abril Fatface', cursive;
+	color: black;
+	font-size:35px;
+}
+img{
+	width: 220px;
+	border-radius: 50%;
+}
+
+h2{ 
+	font-family: 'Abril Fatface', cursive;
+	color:black;
+	font-size:25px;
+ }
+
+#Eva{
+	width: 500px;
+	height: 500px;
+}
+
+#Studies {
+	width: 800px;
+	height: 200px;
+}
+	
+
+#Personality {
+	width: 950px;
+	height: 350px;
+}
+
+#Adventures {
+	width: 1000px;
+	height: 250px;
+}
+
+.card{
+	background-color: white;
+	margin: 70px auto;
+	padding: 10px 30px;
+	box-shadow: 30px 10px 30px darkgrey;
+	opacity: 0.9;
+}
+
+.image{
+	width: 100px;
+	margin:20px;
+}
+
+
+ul{
+	list-style: none
+}
+
+ol{ 
+list-style:none; 
+}
+
+button{
+    background-color: white;
+	border: 2px black;
+	color: black ;
+	width: 180px;
+	height: 120px;
+	font-size: 20px;
+	font-style: bold;
+}
